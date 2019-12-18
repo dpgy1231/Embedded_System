@@ -1,0 +1,1 @@
+"./main.obj" "./myLib.obj" "./pinout.obj" "./tm4c129xnczad_startup_ccs.obj" "./touch.obj" "./third_party/fatfs/src/option/cc932.obj" "./third_party/fatfs/src/ff.obj" "./third_party/fatfs/port/mmc-dk-tm4c129x.obj" "./drivers/mx66l51235f.obj" "../tm4c129xnczad.cmd" -l"libc.a" 
